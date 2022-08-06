@@ -1,0 +1,2 @@
+include ':fish'
+rootProject.name = "SwimmingKoi"
